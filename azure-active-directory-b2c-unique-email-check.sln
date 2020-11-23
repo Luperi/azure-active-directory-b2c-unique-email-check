@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-active-directory-b2c-unique-email-check", "azure-active-directory-b2c-unique-email-check.csproj", "{F2A934D2-5D2E-4215-BA7E-CB94624CBCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2A934D2-5D2E-4215-BA7E-CB94624CBCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A934D2-5D2E-4215-BA7E-CB94624CBCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A934D2-5D2E-4215-BA7E-CB94624CBCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A934D2-5D2E-4215-BA7E-CB94624CBCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
